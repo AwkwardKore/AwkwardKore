@@ -1,6 +1,6 @@
-## Hi, I'm Rolando 👋🏼
+# Hi, I'm Rolando 👋🏼
 
-### Web Frontend Developer
+## Web Frontend Developer
 I'm a front-end developer with full-stack development background/experience.
 I'm really passionate about making products that users can easily interact with,
 but I also try to accomplish this while writing clean code. I'm a firm believer
@@ -11,12 +11,12 @@ can be refactored.
 Learning is a continuous process for me: reading books/posts/documentation,
 watching videos or by getting help from my friends.
 
-### Currently Learning
-- 📖  More Javascript
-- 🖥  Design/UI basics
-- 🎹  Piano
+## Currently Learning
+- 📖 More Javascript
+- 🖥 Design/UI basics
+- 🎹 Piano
 
-### Languages and tools
+## Languages and tools
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -30,7 +30,7 @@ watching videos or by getting help from my friends.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-### Socials/Contact
+## Socials/Contact
 - [Email](dani.islas96@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/rolando-islas-606655154)
 - [Instagram](https://www.instagram.com/awkwardkore/)
