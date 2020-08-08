@@ -29,6 +29,6 @@ watching videos or by getting help from my friends.
 <br />
 
 ## Socials/Contact
-- [Email](dani.islas96@gmail.com)
+- [Email](mailto:dani.islas96@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/rolando-islas-606655154)
 - [Instagram](https://www.instagram.com/awkwardkore/)
