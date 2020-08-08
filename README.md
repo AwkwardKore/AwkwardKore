@@ -1,6 +1,4 @@
 # Hi, I'm Rolando 👋🏼
-
-## Web Frontend Developer
 I'm a front-end developer with full-stack development background/experience.
 I'm really passionate about making products that users can easily interact with,
 but I also try to accomplish this while writing clean code. I'm a firm believer
